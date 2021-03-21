@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm technocapeman! 👋
 
-![Kapilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=technocapeman&show_icons=true&theme=radical)
+![technocapeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=technocapeman&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technocapeman&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
