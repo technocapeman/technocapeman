@@ -2,7 +2,7 @@
 
 ![technocapeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=technocapeman&show_icons=true&theme=gotham)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technocapeman&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![technocapeman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=technocapeman)](https://github.com/anuraghazra/github-readme-stats)
+[![technocapeman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=technocapeman&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **technocapeman/technocapeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
