@@ -1,7 +1,7 @@
 ### Hi there, I'm technocapeman! 👋
 
 # GitHub Stats
-![technocapeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=technocapeman&show_icons=true&theme=gotham)
+[![technocapeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=technocapeman&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technocapeman&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 # Wakatime Stats
