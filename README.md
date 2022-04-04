@@ -2,7 +2,7 @@
 
 # GitHub Stats
 [![technocapeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=technocapeman&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technocapeman&hide=powershell&langs_count=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technocapeman&hide=procfile&langs_count=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 # Wakatime Stats
 [![technocapeman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=technocapeman&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
