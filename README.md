@@ -1,8 +1,14 @@
 ### Hi there, I'm technocapeman! 👋
 
-# GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technocapeman&hide=procfile&langs_count=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
+- 🔭 I’m currently working on the **Texas Murugan Temple Mobile App - built with React Native**
+- 🌱 I’m currently learning **Embedded Systems and Robotics**
+- 👯 I’m looking to collaborate on **fine-tuning LLMs (GPT-4, Llama 3.1)**
+- 🤔 I’m looking for help with **finding Electrical/Computer Engineering Internships**
+- 💬 Ask me about **all things Linux**
+- 📫 How to reach me: **Email kapileshp@utexas.edu**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **I like swimming and backpacking**
+  
 # Wakatime Stats
 [![technocapeman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=technocapeman&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 <!--
