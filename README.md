@@ -1,10 +1,10 @@
 ### Hi there, I'm technocapeman! 👋
 
-- 🔭 I’m currently working on the **Texas Murugan Temple Mobile App - built with React Native**
+- 🔭 I’m currently working on the **Smart Bike Theft Alarm Lock**
 - 🌱 I’m currently learning **Embedded Systems and Robotics**
-- 👯 I’m looking to collaborate on **fine-tuning LLMs (GPT-4, Llama 3.1)**
+- 👯 I’m looking to collaborate on **Edge AI for embedded systems**
 - 🤔 I’m looking for help with **finding Electrical/Computer Engineering Internships**
-- 💬 Ask me about **all things Linux**
+- 💬 Ask me about **installing Arch Linux**
 - 📫 How to reach me: **Email kapileshp@utexas.edu**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I like swimming and backpacking**
